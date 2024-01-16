@@ -1,6 +1,6 @@
 # KnowhutImean?
 TARGET = mss
-BIBFILE = ernest
+BIBFILE = letter
 
 all: $(TARGET).pdf
 
